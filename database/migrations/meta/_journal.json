@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704245051391,
+      "tag": "0000_gorgeous_corsair",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704247916619,
+      "tag": "0001_bitter_the_hood",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704248081527,
+      "tag": "0002_chunky_scalphunter",
+      "breakpoints": true
+    }
+  ]
+}
